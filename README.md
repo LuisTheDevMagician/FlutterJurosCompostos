@@ -127,15 +127,4 @@ Este é um aplicativo Flutter desenvolvido como parte do desafio "Simulador de I
 - Textos descritivos nos campos
 - Feedback visual claro nos botões
 
-## Melhorias Futuras (Opcionais)
 
-- [ ] Gráficos visuais da evolução
-- [ ] Exportar resultados em PDF
-- [ ] Salvar simulações favoritas
-- [ ] Adicionar inflação aos cálculos
-- [ ] Comparar mais de 2 investimentos
-- [ ] Integração com APIs de taxas reais
-
-## Autor
-
-Desenvolvido como parte do desafio educacional "Simulador de Investimentos Personalizado" para demonstrar conhecimentos em Flutter, cálculos financeiros e design de interfaces.
